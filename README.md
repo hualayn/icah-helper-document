@@ -1,21 +1,21 @@
-# 工商变更登记小助手 说明
+# 工商变更登记小助手
 
---> 软件的目的，是为了减少工商变更登记流程中的重复劳动，比如填写数据、核对信息等。  
+软件的目的，为了减少工商变更登记流程中的重复劳动，比如填写数据、核对信息等。除了能够根据客户要求，自动生成股东会决议、公司章程、变更登记（备案）申请书等工商变更登记必要的文档，另外还附带了一个台账功能，方便登记、查阅，为日后的变更文档也提供了有力的依据。  
 
---> 软件的设计，实现了变更业务逻辑，并在最终形成的文档中，得到体现。  
+所生成的文件符合标准规范，而且不失整洁美观。通过软件设计，简化了整个变更登记的业务流程，正确性得到有力提高，大大减少了许多人为的错误因素，强化了变更业务逻辑，减轻了工作强度，大大提高工作效率，提升工作能力，使业务更加聚焦于业务本身。  
 
---> 软件仍有诸多不完善之处，如有问题，请联系我。  
+当然，其中仍有诸多不完善之处。如果生成的文档有谬误，请尽快取得联系，我将尽快更新和优化软件。  
 
---> 祝您工作愉快，**感受工作快乐**：）  
+最后，祝您工作愉快，**感受工作快乐**：）  
 
 
-1. 操作界面简介 [操作界面](https://github.com/hualayn/icah-helper-document/blob/main/操作界面简介.md)  
+1. [--> 操作界面](https://github.com/hualayn/icah-helper-document/blob/main/操作界面简介.md)  
 
-2. 操作流程说明 [操作流程](https://github.com/hualayn/icah-helper-document/blob/main/操作流程说明.md)  
+2. [--> 操作流程](https://github.com/hualayn/icah-helper-document/blob/main/操作流程说明.md)  
 
-3. 注意事项 [注意事项](https://github.com/hualayn/icah-helper-document/blob/main/注意事项.md)  
+3. [--> 注意事项](https://github.com/hualayn/icah-helper-document/blob/main/注意事项.md)  
 
 
 当前版本：v1.0.0  
 
-联系方式：email：layn@jinkuni.com  
+联系方式：磊磊 email：layn@jinkuni.com  
