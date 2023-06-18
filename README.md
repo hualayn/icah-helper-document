@@ -16,6 +16,11 @@
 3. [--> 注意事项](https://github.com/hualayn/icah-helper-document/blob/main/注意事项.md)  
 
 
-当前版本：v1.0.1  
+当前版本：v1.0.2  
 
 联系方式：磊磊 email：layn@jinkuni.com  
+
+v1.0.2升级说明：  
+*   完善有限合伙变更变更登记操作页面  
+*   新增界面风格
+*   修改生成文档文件的存储位置
