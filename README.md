@@ -16,6 +16,6 @@
 3. [--> 注意事项](https://github.com/hualayn/icah-helper-document/blob/main/注意事项.md)  
 
 
-当前版本：v1.04
+当前版本：v1.08
 
 联系方式：磊磊 email：layn@jinkuni.com  
