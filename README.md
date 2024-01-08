@@ -9,11 +9,11 @@
 最后，祝您工作愉快，**感受工作快乐**：）  
 
 
-1. [--> 操作界面](https://github.com/hualayn/icah-helper-document/blob/main/操作界面简介.md)  
+1. [--> 操作界面](操作界面简介.md)  
 
-2. [--> 操作流程](https://github.com/hualayn/icah-helper-document/blob/main/操作流程说明.md)  
+2. [--> 操作流程](操作流程说明.md)  
 
-3. [--> 注意事项](https://github.com/hualayn/icah-helper-document/blob/main/注意事项.md)  
+3. [--> 注意事项](注意事项.md)  
 
 
 当前版本：v1.08
